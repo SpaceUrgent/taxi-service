@@ -2,8 +2,6 @@
 
 Simple wep-application that supports authentication, registration and CRUD operations.
 
-Please refer to   open application at Heroku
-
 #Application functionality
 
 - registration 

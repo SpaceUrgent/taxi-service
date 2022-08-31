@@ -1,8 +1,8 @@
-#Thu Sep 01 00:23:09 EEST 2022
+#Thu Sep 01 01:20:53 EEST 2022
 D\:\\git\\taxi-service\\src\\main\\java\\taxi\\service\\AuthenticationService.java=1661947095167
 D\:\\git\\taxi-service\\src\\main\\java\\taxi\\controller\\car\\AddCarController.java=1661980653059
-D\:\\git\\taxi-service\\src\\main\\java\\taxi\\dao\\ManufacturerDaoImpl.java=1661980909177
 D\:\\git\\taxi-service\\src\\main\\java\\taxi\\util\\ConnectionUtil.java=1661944913851
+D\:\\git\\taxi-service\\src\\main\\java\\taxi\\dao\\ManufacturerDaoImpl.java=1661980909177
 D\:\\git\\taxi-service\\src\\main\\java\\taxi\\controller\\LogoutController.java=1661980796762
 D\:\\git\\taxi-service\\src\\main\\java\\taxi\\dao\\DriverDao.java=1661980877681
 D\:\\git\\taxi-service\\src\\main\\java\\taxi\\model\\Car.java=1661941879712
