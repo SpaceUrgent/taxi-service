@@ -33,4 +33,6 @@ in Application server field put path to folder with tomcat =>
 switch to Deployment tab and add "taxiservice:war exploded" => 
 clear Application context path tp "/" =>
 select apply and Run the app
-3) to open the app go to web-browser "http://localhost:8080/" and register as driver to enter
+3) Download MySQL and MySQL Workbench and excute all queries from
+taxi-service/src/resources/init_db.sql to setup schema
+4) to open the app go to web-browser "http://localhost:8080/" and register as driver to enter
